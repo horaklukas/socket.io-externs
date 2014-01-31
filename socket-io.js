@@ -6,7 +6,7 @@ var io = {};
 
 /**
  * @param {string} uri
- * @param {?Object.<string, string>} options
+ * @param {?Object.<string, string>=} options
  * @return {Socket}
  */
 io.connect = function(uri, options) {};
