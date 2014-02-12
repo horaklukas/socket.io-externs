@@ -27,7 +27,7 @@ Socket.prototype.connect = function(fn) {};
 
 /** 
  * @param {string} event
- * @param {function()} handler
+ * @param {function(...)} handler
  */
 Socket.prototype.on = function(event, handler) {};
 
