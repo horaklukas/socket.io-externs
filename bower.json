@@ -1,4 +1,21 @@
 {
-    "name": "closure-externs",
-    "version": "0.2.0"
+  "name": "socket.io-externs",
+  "version": "0.2.0",
+  "authors": [
+    "Lukas Horak <lhorak@retia.cz>"
+  ],
+  "description": "Closure compiler externs for socket.io-client v0.9.x",
+  "main": "socket-io.js",
+  "keywords": [
+    "closure",
+    "compiler",
+    "externs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
